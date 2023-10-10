@@ -32,8 +32,8 @@ Complexo Complexo::operator-(Complexo &c){
 }
 
 Complexo Complexo::operator*(Complexo &c){
-    int r = real + c.real;
-    int i = imaginario + c.imaginario;
+    int r = real * c.real;
+    int i = imaginario * c.imaginario;
     return Complexo(r, i);
 }
 
