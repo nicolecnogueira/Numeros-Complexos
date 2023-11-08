@@ -1,7 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/sbf0wW5M)
-# Laboratório 2
-
-<img alt="points bar" align="right" height="36" src="../../blob/status/.github/activity-icons/points-bar.svg" />
+# Números Complexos
 
 Um número complexo qualquer $z$ possui a forma $z = a+bi$, em que $a$ e $b$ são números reais e $i$ é a unidade imaginária. Considere os números complexos $z_{1} = a+bi$ e $z_{2}=c+di$ e as seguintes operações:
 
@@ -25,9 +23,4 @@ O programa permite que o usuário crie e opere dois números complexos. O progra
   + Entrada: `./complexo 1 2 3 4 '|'`
   + Saída: `2.24;5`
 
-
-
-# Extra (opcional)
-
-Para praticar, altere a classe que representa números complexos de forma que seus atributos sejam alocados de forma dinâmica.
 
